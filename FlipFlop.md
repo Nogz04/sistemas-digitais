@@ -55,5 +55,19 @@ Explicação:
 <img width="351" height="259" alt="{8747135A-D1CF-4687-933E-76526A8A4C6D}" src="https://github.com/user-attachments/assets/e57b298e-7270-4130-ab75-dab5d0ee6812" />
 
 
+# Latch
+
+## Latch SR - NOR
+
+<img width="1247" height="698" alt="image" src="https://github.com/user-attachments/assets/f066d9b9-d128-4f4c-bab6-64be31353b29" />
+
+
+## Latch SR - NAND
+
+<img width="1242" height="699" alt="image" src="https://github.com/user-attachments/assets/e9efb072-00ae-4e5e-8ff9-c9cfed0caade" />
+
+## Latch D
+
+<img width="1244" height="705" alt="image" src="https://github.com/user-attachments/assets/0225dc05-bbb0-4e42-931d-8ee38e15d373" />
 
 
