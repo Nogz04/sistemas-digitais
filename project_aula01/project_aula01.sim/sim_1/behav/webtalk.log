@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2015.1 (64-bit)
+# SW Build 1215546 on Mon Apr 27 19:22:08 MDT 2015
+# IP Build 1209967 on Tue Apr 21 11:39:20 MDT 2015
+# Start of session at: Wed Sep 03 09:19:33 2025
+# Process ID: 9228
+# Log file: C:/Users/laboratorio/project_aula01/project_aula01.sim/sim_1/behav/webtalk.log
+# Journal file: C:/Users/laboratorio/project_aula01/project_aula01.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/laboratorio/project_aula01/project_aula01.sim/sim_1/behav/xsim.dir/variaveis_exemplo_behav/webtalk/xsim_webtalk.tcl -notrace
+
+    while executing
+"webtalk_transmit -clientid 945543008 -regid "213217756_0_0_327" -xml C:/Users/laboratorio/project_aula01/project_aula01.sim/sim_1/behav/xsim.dir/varia..."
+    (file "C:/Users/laboratorio/project_aula01/project_aula01.sim/sim_1/behav/xsim.dir/variaveis_exemplo_behav/webtalk/xsim_webtalk.tcl" line 41)
+INFO: [Common 17-206] Exiting Webtalk at Wed Sep 03 09:19:35 2025...
