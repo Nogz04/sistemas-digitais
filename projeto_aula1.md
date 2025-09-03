@@ -128,3 +128,7 @@ architecture Behavioral of testbench is
  end Behavioral;
 ```
 
+### Simulação
+
+<img width="1897" height="981" alt="{41F0EFE0-2B6A-4713-AC01-43C371A39EF6}" src="https://github.com/user-attachments/assets/a7b02ba6-405b-4192-b9c4-961dbc27a881" />
+
