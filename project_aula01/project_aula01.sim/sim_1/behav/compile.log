@@ -2,19 +2,3 @@ INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/laboratorio/Desktop/project_au
 INFO: [VRFC 10-307] analyzing entity variaveis_exemplo
 INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd" into library xil_defaultlib
 INFO: [VRFC 10-307] analyzing entity testbench
-ERROR: [VRFC 10-91] std_logic is not declared [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:8]
-ERROR: [VRFC 10-91] std_logic is not declared [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:9]
-ERROR: [VRFC 10-91] std_logic is not declared [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:10]
-ERROR: [VRFC 10-91] clk is not declared [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:20]
-ERROR: [VRFC 10-91] a is not declared [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:21]
-ERROR: [VRFC 10-91] b is not declared [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:22]
-ERROR: [VRFC 10-91] y is not declared [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:23]
-ERROR: [VRFC 10-283] actual of formal out port y cannot be an expression [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:23]
-ERROR: [VRFC 10-91] clk is not declared [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:29]
-ERROR: [VRFC 10-91] clk is not declared [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:31]
-ERROR: [VRFC 10-91] a is not declared [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:39]
-ERROR: [VRFC 10-91] a is not declared [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:43]
-ERROR: [VRFC 10-91] a is not declared [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:47]
-ERROR: [VRFC 10-91] a is not declared [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:51]
-ERROR: [VRFC 10-1504] unit behavioral ignored due to previous errors [C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd:5]
-INFO: [VRFC 10-240] VHDL file C:/Users/laboratorio/Desktop/project_aula01/project_aula01.srcs/sim_1/new/testbench.vhd ignored due to errors

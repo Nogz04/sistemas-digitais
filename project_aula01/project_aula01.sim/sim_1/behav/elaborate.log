@@ -1,6 +1,6 @@
 Vivado Simulator 2015.1
 Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
-Running: C:/Xilinx/Vivado/2015.1/bin/unwrapped/win64.o/xelab.exe -wto 29b8a338568d4ed78b5b57fbc6e892ac --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot variaveis_exemplo_behav xil_defaultlib.variaveis_exemplo -log elaborate.log 
+Running: C:/Xilinx/Vivado/2015.1/bin/unwrapped/win64.o/xelab.exe -wto 29b8a338568d4ed78b5b57fbc6e892ac --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot testbench_behav xil_defaultlib.testbench -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
 Completed static elaboration
@@ -11,6 +11,7 @@ Compiling package std.standard
 Compiling package ieee.std_logic_1164
 Compiling package ieee.std_logic_arith
 Compiling package ieee.std_logic_unsigned
-Compiling architecture behavioral of entity xil_defaultlib.variaveis_exemplo
+Compiling architecture behavioral of entity xil_defaultlib.variaveis_exemplo [variaveis_exemplo_default]
+Compiling architecture behavioral of entity xil_defaultlib.testbench
 Waiting for 2 sub-compilation(s) to finish...
-Built simulation snapshot variaveis_exemplo_behav
+Built simulation snapshot testbench_behav
